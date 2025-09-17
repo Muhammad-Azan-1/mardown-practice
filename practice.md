@@ -61,6 +61,11 @@ Yaani ab tum control karte ho ke click hone par kahan jaana hai.
  - Peach
 
 2. Fruits
-  * Guava
-  * Water Melon
-  * Graps
+  + Guava
+  + Water Melon
+  + Graps
+
+3. Fruits
+  * Bannan
+  * Pineapple
+  * Pomegrante
