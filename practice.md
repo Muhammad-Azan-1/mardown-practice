@@ -12,6 +12,9 @@
 
 
 
+
+
+[![Image 3](https://i.ytimg.com/vi/XrU7D9YEHog/maxresdefault.jpg "This is image 3")](http://www.google.com)
 <!-- ![]() = Image  
 Sirf image dikhata hai.
 Click karne par kuch nahi hota (bas image hi screen par hai).
